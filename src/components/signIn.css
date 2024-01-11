@@ -1,0 +1,79 @@
+/* *{
+    border: 1px solid black;
+} */
+
+.Main1{
+margin: auto;  
+background: rgba(0, 0, 0, 0.5);
+background-blend-mode: darken;
+height: 100%;
+width: 100%
+
+}
+
+.email1{
+    margin: 0 0 2rem 0;
+  }
+  .email1>input{
+    width: 320px;
+  }
+
+  .pass>input{
+
+    width: 320px;
+  }
+  .Main1>p{
+    margin: 0 0 0 4rem;
+    text-decoration: none;
+    color: white;
+    
+  }
+  
+   
+  
+  .inputs{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    margin: 6rem 0 0 0;
+  }
+  .brandName0{
+    font-size: 24px;
+        font-weight: bold;
+        color: white;
+        margin: 1.2rem 0 0 1rem;
+  }
+  .hotname0{
+    font-size: 14px;
+    color: white;
+    margin: 0 3.8rem 0 0;
+  }
+
+  .white{
+    color: white;
+    font-size: 40px;
+    margin: 2.4rem 1.3rem 0 0 ;
+  }
+  .big-font0{
+    font-size: 60px;
+    margin-top: 20px;
+    margin: 3rem 0 1rem 0; 
+    font-weight: bold;
+    color: white;
+  }
+
+  a{
+    text-decoration: none;
+    color: white;
+  }
+  .login-btn>button{
+    width: 250px;
+    color: rgb(218, 191, 69);
+    margin: 30px 1rem 0 0;
+    background-color: rgb(5, 5, 110);
+  }
+  .login-btn>:hover{
+    background-color: brown;
+    color: white;
+  }

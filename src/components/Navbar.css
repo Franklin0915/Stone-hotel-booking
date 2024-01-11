@@ -1,0 +1,35 @@
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.brandname{
+    margin: 3rem 0 0 2rem;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.nav-items{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3rem 3rem 0 0;
+    
+    
+}
+.nav-spacing{
+    margin: 0 2rem 0 2rem;
+    
+}
+.hot{
+    margin: 0 1.6rem 0 0;
+    color: white;
+    font-size: 15px;
+}
+.signup>a{
+    text-decoration: none;
+    color: white;
+}
+
+.main{
+    color: white;
+}

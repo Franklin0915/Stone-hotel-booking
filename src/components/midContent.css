@@ -1,0 +1,33 @@
+.midContent{
+  
+    color: white;
+    
+}
+
+h2{
+    font-size: 20px;
+}
+h1{
+    font-size: 48px;
+}
+.mid-buttons{
+    display: flex;
+    margin: 2rem 4rem 0 0;
+    justify-content: center;
+}
+.tour>button{
+    width: 100px;
+    color: rgb(97, 201, 230);
+}
+.book>button{
+    width: 100px;
+    color: burlywood;
+}
+.tour>:hover{
+    background-color: brown;
+    color: white;
+}
+.book>:hover{
+    background-color: rgb(9, 9, 241);
+    color: white;
+}
